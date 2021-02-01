@@ -45,12 +45,26 @@ body {
     height: 100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+    padding: 25px;
 }
 
 .flip-card-front {
     background-color:#c0c0c0;
     color: black;
 }
+
+.flip-card-front .title {
+    margin-bottom: 25px;
+}
+
+.flip-card-front .language {
+    margin-bottom: 25px;
+}
+
+.flip-card-front .topics {
+    list-style: none;
+}
+
 
 .flip-card-back {
     background-color: #407294;
