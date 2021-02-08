@@ -16,6 +16,10 @@ body {
     background-color: #003366;
 }
 
+.card {
+    margin-bottom: 30px;
+}
+
 .card-header {
     color: #407294;
 }
