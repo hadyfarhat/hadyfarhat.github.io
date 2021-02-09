@@ -20,6 +20,18 @@ body {
     margin-bottom: 30px;
 }
 
+.beginner {
+    color: #008000;
+}
+
+.intermediate {
+    color: #ffa500;
+}
+
+.advanced {
+    color: #800000;   
+}
+
 .card-header {
     color: #407294;
 }
